@@ -1,5 +1,6 @@
 # DES
 <div align="center">
+![GitHub contributors](https://img.shields.io/github/contributors/Heba-Atef99/DES?color=%2300&logo=GitHub)
 ![GitHub top language](https://img.shields.io/github/languages/top/Heba-Atef99/DES?color=%2300)
 </div>
 
